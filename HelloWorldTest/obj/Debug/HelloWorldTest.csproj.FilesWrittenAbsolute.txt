@@ -1,0 +1,6 @@
+/Users/kennyedmond/Documents/VmwareFiles/HelloWorld/HelloWorldTest/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/kennyedmond/Documents/VmwareFiles/HelloWorld/HelloWorldTest/bin/Debug/HelloWorldTest.dll.mdb
+/Users/kennyedmond/Documents/VmwareFiles/HelloWorld/HelloWorldTest/bin/Debug/HelloWorldTest.dll
+/Users/kennyedmond/Documents/VmwareFiles/HelloWorld/HelloWorldTest/obj/Debug/HelloWorldTest.dll
+/Users/kennyedmond/Documents/VmwareFiles/HelloWorld/HelloWorldTest/obj/Debug/HelloWorldTest.dll.mdb
+/Users/kennyedmond/Documents/VmwareFiles/HelloWorld/HelloWorldTest/bin/Debug/HelloWorld.exe
