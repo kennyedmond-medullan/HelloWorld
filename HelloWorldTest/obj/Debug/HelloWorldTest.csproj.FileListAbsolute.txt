@@ -1,7 +1,0 @@
-E:\HelloWorld\HelloWorldTest\bin\Debug\HelloWorldTest.dll
-E:\HelloWorld\HelloWorldTest\bin\Debug\HelloWorldTest.pdb
-E:\HelloWorld\HelloWorldTest\bin\Debug\HelloWorld.exe
-E:\HelloWorld\HelloWorldTest\bin\Debug\HelloWorld.pdb
-E:\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.csprojResolveAssemblyReference.cache
-E:\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.dll
-E:\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.pdb

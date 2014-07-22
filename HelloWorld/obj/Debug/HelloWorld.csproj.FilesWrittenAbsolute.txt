@@ -1,0 +1,6 @@
+/Users/kennyedmond/Documents/VmwareFiles/HelloWorld/HelloWorld/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/kennyedmond/Documents/VmwareFiles/HelloWorld/HelloWorld/obj/Debug/HelloWorld.Properties.Resources.resources
+/Users/kennyedmond/Documents/VmwareFiles/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe.mdb
+/Users/kennyedmond/Documents/VmwareFiles/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/kennyedmond/Documents/VmwareFiles/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+/Users/kennyedmond/Documents/VmwareFiles/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe.mdb
